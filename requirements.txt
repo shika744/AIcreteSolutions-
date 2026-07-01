@@ -1,0 +1,11 @@
+streamlit>=1.35.0
+numpy>=1.26.0
+pandas>=2.2.0
+joblib>=1.4.0
+plotly>=5.22.0
+kaleido>=0.2.1
+matplotlib>=3.9.0
+fpdf2>=2.7.9
+shap>=0.45.0
+openpyxl>=3.1.0
+scikit-learn==1.8.0
